@@ -1,0 +1,1 @@
+# danfoss_ally_exporter
